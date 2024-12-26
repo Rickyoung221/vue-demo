@@ -27,10 +27,6 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```
-bash
-
-
-Copy code
 git clone https://github.com/your-username/vue-demo.git
 cd vue-demo
 npm install
@@ -41,10 +37,6 @@ npm install
 To start the development server and play the game:
 
 ```
-bash
-
-
-Copy code
 npm run serve
 ```
 
@@ -55,10 +47,6 @@ Open your browser and navigate to: http://localhost:8080.
 To build the project for production:
 
 ```
-bash
-
-
-Copy code
 npm run build
 ```
 
@@ -69,10 +57,6 @@ The compiled files will be available in the `dist` directory.
 To lint your files and automatically fix issues:
 
 ```
-bash
-
-
-Copy code
 npm run lint
 ```
 
@@ -99,10 +83,6 @@ npm run lint
 ## Project Structure
 
 ```
-plaintext
-
-
-Copy code
 vue-demo/
 ├── public/              # Static assets
 ├── src/
