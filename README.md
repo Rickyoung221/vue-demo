@@ -2,6 +2,7 @@
 
 A project for self-learning Vue.js (Vue 3) and Element Plus. This project includes a **mini snake game** built entirely with Vue.
 
+Snake Game Reference URL: https://juejin.cn/post/7088872374019293197
 ## Features
 
 - **Mini Snake Game**: A classic snake game implemented with Vue.js.
