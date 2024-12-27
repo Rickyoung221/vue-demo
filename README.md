@@ -11,7 +11,13 @@ Snake Game Reference URL: https://juejin.cn/post/7088872374019293197
 - **Element Plus Integration**: Leverages Element Plus for styling and component integration.
 
 ---
+## Todo
 
+- [x] Import it in the porforlio web, check how to interact Vue with React 
+- [ ] Update the UI
+
+
+---
 ## Getting Started
 
 Follow these steps to run the project locally.
