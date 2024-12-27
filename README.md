@@ -13,7 +13,7 @@ Snake Game Reference URL: https://juejin.cn/post/7088872374019293197
 ---
 ## Todo
 
-- [x] Import it in the porforlio web, check how to interact Vue with React 
+- [ ] Import it in the porforlio web, check how to interact Vue with React 
 - [ ] Update the UI
 
 
